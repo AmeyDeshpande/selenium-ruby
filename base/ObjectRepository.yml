@@ -1,0 +1,10 @@
+#This file contains xpaths used in WebFormUtil.rb file
+name_text_box : entry_1041466219
+checkbox_yes : //input[@value='Yes']
+click_drop_down : //select[@id='entry_262759813']
+select_rspec : //select/option[text()='rspec']
+text_area : entry_649813199
+submit_button : //input[@type='submit']
+error_message_1 : //ol/div[1]/div/div/div[text()='This is a required question']
+error_message_2 : //ol/div[2]/div/div/div[text()='This is a required question']
+success_message : //div[text()='Your response has been recorded.']

@@ -1,0 +1,23 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    childprocess (0.5.9)
+      ffi (~> 1.0, >= 1.0.11)
+    ffi (1.9.14)
+    ffi (1.9.14-x64-mingw32)
+    rubyzip (1.2.0)
+    selenium-webdriver (2.53.0)
+      childprocess (~> 0.5)
+      rubyzip (~> 1.0)
+      websocket (~> 1.0)
+    websocket (1.2.3)
+
+PLATFORMS
+  ruby
+  x64-mingw32
+
+DEPENDENCIES
+  selenium-webdriver
+
+BUNDLED WITH
+   1.13.6
